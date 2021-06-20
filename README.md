@@ -1,6 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+![asdasdasd](https://user-images.githubusercontent.com/78980888/122673093-9309d100-d1d7-11eb-825a-22a24fbe76b0.jpg)
 
 ## Installation
 ```bash
